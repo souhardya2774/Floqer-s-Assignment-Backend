@@ -16,7 +16,7 @@ from pydantic import BaseModel
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
+    "https://floqer-s-assignment-pi.vercel.app",
 ]
 
 app.add_middleware(
