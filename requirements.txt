@@ -1,3 +1,4 @@
-llama-index
+llama-index 
+llama-index-experimental
 pandas
 fastapi[standard]
