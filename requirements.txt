@@ -1,5 +1,3 @@
-llama-index 
-llama-index-experimental
-llama-index-llms-groq
+llama-index
 pandas
 fastapi[standard]
